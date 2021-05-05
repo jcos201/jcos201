@@ -18,6 +18,12 @@ I've created a portfolio which you can see by clicking [here](https://www.cossi.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML 5 logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS 3 logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="Gatsby logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" height="50"/>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcos201&hide=scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcos201&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--

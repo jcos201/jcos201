@@ -2,7 +2,7 @@
 
 ---
 
-I'm a software engineer with experience with the technologies listed in the toolbox below.  
+I'm a software engineer with experience in the technologies listed in the toolbox below.  
 
 A problem solver by nature, I enjoy building things that can be useful for people.
 

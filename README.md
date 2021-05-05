@@ -10,7 +10,9 @@ A problem solver by nature, I enjoy building things that can be useful for peopl
 
 I'm currently working in market research where I use JavaScript / Python to write algorithms inside of SASS platforms creating online surveys for Pharma clients.
 
-I've created a portfolio which you can see by clicking [here](https://www.cossi.dev/).  Looking forward to creating more interesting applications and solutions for internet users.
+I've created a portfolio which you can see by clicking [here](https://www.cossi.dev/).  You can also view my LinkedIn page [here](https://www.linkedin.com/in/jorge-cossi/).
+
+Looking forward to creating more interesting applications and solutions for internet users.
 
 ---
 

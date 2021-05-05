@@ -1,8 +1,6 @@
-### Hi there 👋, I am Jorge Cossi!
+## Hi there 👋, I am Jorge Cossi!
 
 ---
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/jcos201?style=social)](https://twitter.com/JCos201)
 
 I'm a software engineer with experience with the technologies listed in the toolbox below.  
 
@@ -22,9 +20,14 @@ Looking forward to creating more interesting applications and solutions for inte
 
 ---
 
+### You can reach me here:
+<a href="https://www.linkedin.com/in/jorge-cossi/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="50" height="50"/></a>  <a href="https://twitter.com/JCos201" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="50" height="50"/></a>
+
+---
+## 📊 GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcos201&hide=scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcos201&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

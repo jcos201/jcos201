@@ -2,7 +2,7 @@
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jcos201?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jcos201?style=social)](https://twitter.com/JCos201)
 
 I'm a software engineer with experience with the technologies listed in the toolbox below.  
 

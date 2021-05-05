@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Jorge Cossi!
 
+![Twitter Follow](https://img.shields.io/twitter/follow/jcos201?style=social)
 <!--
 **jcos201/jcos201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

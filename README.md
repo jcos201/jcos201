@@ -6,7 +6,7 @@ I'm a software engineer with experience in the technologies listed in the toolbo
 
 A problem solver by nature, I enjoy building things that can be useful for people.
 
-I'm currently working in market research where I use JavaScript / Python to write algorithms inside of SASS platforms creating online surveys for Pharma clients.
+I'm currently working in market research as a frontend developer where I use JavaScript / Python to write algorithms inside of proprietary frameworks creating online surveys for Pharma clients.
 
 I've created a portfolio which you can see by clicking [here](https://www.cossi.dev/).  You can also view my LinkedIn page [here](https://www.linkedin.com/in/jorge-cossi/).
 
